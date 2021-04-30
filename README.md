@@ -9,7 +9,7 @@ Hope you are doing as well as me. I always look forward to have contributions to
  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
 
-### Now Working on
+### Now Working on..
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq)
 
 ##### Last Update on May 1, 2021
