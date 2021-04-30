@@ -12,7 +12,4 @@ Hope you are doing as well as me. I always look forward to have contributions to
 ### Now Working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq)
 
-### Buy me Something
-<img src="https://github.com/lnxpy/lnxpy/blob/main/icons/paypal.svg" width="45">
-
-#### Last Update on May 1, 2021
+##### Last Update on May 1, 2021
