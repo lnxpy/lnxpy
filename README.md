@@ -8,7 +8,10 @@ Hope you are doing as well as me. I always look forward to have contributions to
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/python.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/docker.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/django%20(1).svg" width="29"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/google-cloud-platform.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/linux.svg" width="55"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/aws.svg" width="50"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/csharp.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/raspberry.svg" width="35">
 
 By [Graphic Mall](https://iconscout.com/contributors/iconsvalley).
- 
+
+### Achievements
+<img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest2019.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktobertree.png" width="100">
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
 
 ### Currently Working on..
