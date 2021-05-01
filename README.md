@@ -7,7 +7,7 @@ Hope you are doing as well as me. I always look forward to have contributions to
 ### Programming Languages & Technologies
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/python.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/docker.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/django%20(1).svg" width="29"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/google-cloud-platform.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/linux.svg" width="55"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/aws.svg" width="50"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/csharp.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/raspberry.svg" width="35">
 
-By [Graphic Mall](https://iconscout.com/contributors/iconsvalley)
+By [Graphic Mall](https://iconscout.com/contributors/iconsvalley).
  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
 
