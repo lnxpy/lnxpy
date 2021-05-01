@@ -9,10 +9,10 @@ Hope you are doing as well as me. I always look forward to have contributions to
 
 By [Graphic Mall](https://iconscout.com/contributors/iconsvalley).
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
+
 ### Achievements
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest2019.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktobertree.png" width="100">
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
 
 ### Currently Working on..
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq)
