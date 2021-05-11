@@ -15,6 +15,6 @@ By [Graphic Mall](https://iconscout.com/contributors/iconsvalley).
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest2019.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktobertree.png" width="100">
 
 ### Currently Working on..
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnxpy&repo=bluelight)](https://github.com/lnxpy/bluelight)
 
-##### Last Update on May 1, 2021
+##### Last Update on May 12, 2021
