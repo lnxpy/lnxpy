@@ -1,20 +1,17 @@
 ## Hey there, It's Alireza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/)](https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lnxpylnxpy@gmail.com)](mailto:lnxpylnxpy@gmail.com)
+<a href="mailto:lnxpylnxpy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dev.to/lnxpy"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 
 Hope you are doing as well as me. I always look forward to have contributions to the open source world and that's what makes me feel so good. I'll bet, you don't want to miss it. **Your open source projects can change the world**.
 
 ### Programming Languages & Technologies
-<img src="https://github.com/lnxpy/lnxpy/blob/main/icons/python.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/docker.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/django%20(1).svg" width="29"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/google-cloud-platform.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/linux.svg" width="55"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/aws.svg" width="50"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/csharp.svg" width="45"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/raspberry.svg" width="35">
 
-By [Graphic Mall](https://iconscout.com/contributors/iconsvalley).
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnxpy&layout=compact"> <img src = "https://github-readme-stats.vercel.app/api?username=lnxpy&show_icons=true&hide=[%22issues%22]">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
 ### Achievements
-<img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest2019.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktobertree.png" width="100">
+<img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest2019.svg" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100">
 
-### Currently Working on..
+### Currently Working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnxpy&repo=bluelight)](https://github.com/lnxpy/bluelight)
 
-##### Last Update on May 12, 2021
+##### Last Update on May 15, 2021
