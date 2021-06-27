@@ -12,6 +12,6 @@ Hope you are doing as well as me. I always look forward to have contributions to
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/hacktoberfest-full-logo.svg" width="100">
 
 ### Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbmqproject&repo=dbmq)](https://github.com/dbmqproject/dbmq) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnxpy&repo=bluelight)](https://github.com/lnxpy/bluelight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnxpy&repo=bluelight)](https://github.com/lnxpy/bluelight)
 
 ##### Last Update on May 21, 2021
