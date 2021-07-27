@@ -15,4 +15,3 @@ Hope you are doing as well as me. I always look forward to having contributions 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lnxpy&repo=bluelight)](https://github.com/lnxpy/bluelight)
 
 ##### Last Update on June 27, 2021
-Saw
