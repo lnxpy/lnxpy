@@ -2,7 +2,7 @@
 
 <a href="mailto:lnxpylnxpy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Hope you are doing as well as me. I always look forward to having contributions to the open-source world and that's what makes me feel so good. I'll bet, you don't want to miss it. **Your open-source projects can change the world**. Big fan of AI; specifically Machine Learning. Still following the Amazon DeepRacer competitions enthusiastically BTW. :sweat_smile:
+Hope you are doing as well as me. I always look forward to having contributions to the open-source world and that's what makes me feel so good. I'll bet, you don't want to miss it. **Your open-source projects can change the world**. Big fan of AI; specifically Machine Learning.
 
 ### Programming Languages & Technologies
 
