@@ -12,6 +12,6 @@ Hope you are doing well. I always look forward to having contributions to the op
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/acm.png" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/deepracer.png" width="100">
 
 ### Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehub-ir&repo=codehub)](https://github.com/codehub-ir/codehub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehub-ir&repo=codehub&theme=dark&bg_color=000428,03295D,004e92&text_color=eeeeee)](https://github.com/codehub-ir/codehub)
 
 ##### Last Update on Sep 19, 2021
