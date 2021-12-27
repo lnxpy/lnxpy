@@ -12,6 +12,6 @@ Python backend developer and Machine Learning enthusiast. Open source contributo
 <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/acm.png" width="100"> <img src="https://github.com/lnxpy/lnxpy/blob/main/icons/deepracer.png" width="100">
 
 ### Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehub-ir&repo=codehub&theme=dark&bg_color=000428,03295D,004e92&text_color=eeeeee)](https://github.com/codehub-ir/codehub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codehub-ir&repo=codehub&show_owner=true&theme=buefy&title_color=1f00ff)](https://github.com/codehub-ir/codehub)
 
 ##### Last Update on Sep 19, 2021
