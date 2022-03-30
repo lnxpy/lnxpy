@@ -1,29 +1,19 @@
-name: Blog posts on ReadMe
+name: Recent Blog Posts
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
-    # The type of runner that the job will run on
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_url: https://imsadra.me/rss.xml
-          count: 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'sadra'
-            git config --global user.email 'lnxpylnxpy@gmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://imsadra.me/rss.xml"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
