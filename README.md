@@ -6,6 +6,11 @@
 
 ### Recent Published Posts
 <!-- BLOGPOSTS:START -->
+- [Lights, Camera, GitHub Actions](https://imsadra.me/lights-camera-github-actions)
+- [Explain Git Like I&#39;m Five](https://imsadra.me/explain-git-like-im-five)
+- [The Power of Django ORM](https://imsadra.me/the-power-of-django-orm)
+- [How Context Manager Works in Python](https://imsadra.me/how-context-manager-works-in-python)
+- [Python Closures; Also Known as Small Classes](https://imsadra.me/python-closures-also-known-as-small-classes)
 <!-- BLOGPOSTS:END -->
 
 ### Programming Languages & Technologies
