@@ -1,7 +1,7 @@
 name: Recent Blog Posts
 on:
   schedule:
-    # Runs every day
+    # Runs 6 hours day
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
