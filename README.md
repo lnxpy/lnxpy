@@ -10,6 +10,7 @@
 - [How Context Manager Works in Python](https://imsadra.me/how-context-manager-works-in-python)
 - [Python Closures; Also Known as Small Classes](https://imsadra.me/python-closures-also-known-as-small-classes)
 <!-- BLOGPOSTS:END -->
+Read more posts [here](https://imsadra.me). You can also subscribe to my weblog so you will never miss new posts.
 
-### :call_me_hand: Contact Me
+#### :call_me_hand: Contact Me
 <a href="mailto:lnxpylnxpy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://imsadra.me"><img src="https://img.shields.io/badge/imsadra.me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
