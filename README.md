@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/lnxpy/lnxpy/main/icons/banner.svg">
 
-**I'm Alireza 'Sadra' Yahyapour**. Python backend developer and Machine Learning enthusiast. Open source contributor. Trying to be a Pythonista. Learning new things and techs. Love innovating handy stuff. Blogger.
+**I'm Alireza 'Sadra' Yahyapour**. Python backend developer and Machine Learning enthusiast. Open source contributor. Trying to be a Pythonista. Learning new things and techs. Love innovating handy stuff. Blogger. <img src="https://raw.githubusercontent.com/lnxpy/lnxpy/main/icons/download.gif" width="20">
 
 ### :pencil: Recent Published Posts
 <!-- BLOGPOSTS:START -->
