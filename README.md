@@ -4,11 +4,11 @@
 
 ### :pencil: Recent Published Posts
 <!-- BLOGPOSTS:START -->
+- [Dynamic Contents on GitHub README](https://imsadra.me/dynamic-contents-on-github-readme)
 - [setUp&lpar;&rpar; &amp; tearDown&lpar;&rpar; in Python Unit Testing](https://imsadra.me/setup-and-teardown-in-python-unit-testing)
 - [Lights, Camera, GitHub Actions](https://imsadra.me/lights-camera-github-actions)
 - [Explain Git Like I&#39;m Five](https://imsadra.me/explain-git-like-im-five)
 - [The Power of Django ORM](https://imsadra.me/the-power-of-django-orm)
-- [How Context Manager Works in Python](https://imsadra.me/how-context-manager-works-in-python)
 <!-- BLOGPOSTS:END -->
 Read more posts [here](https://imsadra.me). You can also subscribe to my weblog so you will never miss new stuff. :)
 
