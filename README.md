@@ -2,7 +2,7 @@
 
 <samp>
 
-__Python__ backend developer and __Machine Learning__ enthusiast. Innovation seeker. __Blogger__. Founder of [__@codehub__](https://github.com/codehub-ir) service and [__@sadracodes__](https://github.com/sadracodes) community.
+__Python__ backend developer and __Machine Learning__ enthusiast. Innovation seeker. __Blogger__. Founder of [__@codehub__](https://github.com/codehub-ir) service.
 
 </samp>
   
