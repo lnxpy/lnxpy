@@ -1,4 +1,4 @@
-### :wave: Hi there, It's Sadra!
+### :wave: Hi there, I'm Sadra!
 
 <samp>
 
