@@ -11,11 +11,11 @@ __Python__ backend developer and __Machine Learning__ enthusiast. Innovation see
 <samp>
 
 <!-- BLOGPOSTS:START -->
+- [Event-Driven Architecture in Python](https://imsadra.me/event-driven-architecture-in-python)
 - [Commit Like a Pro](https://imsadra.me/commit-like-a-pro)
 - [Threading &amp; Fair Race With MutEx](https://imsadra.me/threading-and-fair-race-with-mutex)
 - [Dynamic Contents on GitHub README](https://imsadra.me/dynamic-contents-on-github-readme)
 - [setUp&lpar;&rpar; &amp; tearDown&lpar;&rpar; in Python Unit Testing](https://imsadra.me/setup-and-teardown-in-python-unit-testing)
-- [Lights, Camera, GitHub Actions](https://imsadra.me/lights-camera-github-actions)
 <!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more posts and information.
