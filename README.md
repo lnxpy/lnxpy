@@ -2,7 +2,7 @@
 
 <samp>
 
-__Python__ backend developer and __Machine Learning__ enthusiast. Innovation seeker. Technical writer. Currently working on the [__@collove__](https://github.com/collove) community.
+__Python__ backend developer and __Machine Learning__ enthusiast. Innovation seeker. Technical writer. Currently working on [__@collove__](https://github.com/collove) community.
 
 </samp>
   
