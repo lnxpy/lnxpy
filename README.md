@@ -18,7 +18,7 @@ __Python__ backend developer and __Machine Learning__ enthusiast. Innovation see
 - [Event-Driven Architecture in Python](https://imsadra.me/event-driven-architecture-in-python)
 <!-- BLOGPOSTS:END -->
 
-Check out [__imsadra.me__](https://imsadra.me) for more posts and information.
+Check out [__imsadra.me__](https://imsadra.me) for more posts and blogs.
 
 </samp>
 
