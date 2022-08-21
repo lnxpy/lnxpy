@@ -12,4 +12,4 @@ __Python__ backend developer and __Machine Learning__ enthusiast. Innovation see
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
 #### :call_me_hand: Contact Me
-[__Twitter__](https://twitter.com/lnxpylnxpy) | [__Email__](mailto:lnxpylnxpy@gmail.com) | [__Weblog__](https://imsadra.me) | [__LinkedIn__](https://www.linkedin.com/in/ali-reza-yahyapour-18b896164/)
+[__Twitter__](https://twitter.com/lnxpylnxpy) | [__Email__](mailto:lnxpylnxpy@gmail.com) | [__Weblog__](https://imsadra.me) | [__LinkedIn__](https://www.linkedin.com/in/sadra-yahyapour/)
