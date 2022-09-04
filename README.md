@@ -1,7 +1,4 @@
 ### :wave: Hi there, I'm Sadra!
-
-![alt](https://picsum.photos/700/200)
-
 __Python__ backend developer and __Machine Learning__ enthusiast. Innovation seeker. Technical writer. Leading [__@Collove__](https://github.com/collove) community.
   
 #### :books: Recent Blog Posts
