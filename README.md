@@ -3,11 +3,11 @@ __Python__ backend developer and __Machine Learning__ enthusiast. Innovation see
   
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)
- - 🔥 [Connect Your Django Projects to PlanetScale Databases](https://imsadra.me/connect-your-django-projects-to-planetscale-databases)
- - 💯 [PasteMe - Paste Codes From Your Terminal](https://imsadra.me/pasteme-paste-codes-from-your-terminal)
- - 🚀 [Become an Open Source Contributor](https://imsadra.me/become-an-open-source-contributor)
- - 🔥 [Unit Testing in Python &amp; Best Practices](https://imsadra.me/unit-testing-in-python-and-best-practices)<!-- BLOGPOSTS:END -->
+ - 🚀 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)
+ - 🔥 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)
+ - 💯 [Connect Your Django Projects to PlanetScale Databases](https://imsadra.me/connect-your-django-projects-to-planetscale-databases)
+ - 🚀 [PasteMe - Paste Codes From Your Terminal](https://imsadra.me/pasteme-paste-codes-from-your-terminal)
+ - 🔥 [Become an Open Source Contributor](https://imsadra.me/become-an-open-source-contributor)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
