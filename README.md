@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
   
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [I Want That T-Shirt at Any Cost!](https://imsadra.me/i-want-that-t-shirt-at-any-cost)
- - 🔥 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)
- - 💯 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)
- - 🚀 [Connect Your Django Projects to PlanetScale Databases](https://imsadra.me/connect-your-django-projects-to-planetscale-databases)
- - 🔥 [PasteMe - Paste Codes From Your Terminal](https://imsadra.me/pasteme-paste-codes-from-your-terminal)<!-- BLOGPOSTS:END -->
+ - 🚀 [Python 3.11 - Five Cool Features!](https://imsadra.me/python-311-five-cool-features)
+ - 🔥 [I Want That T-Shirt at Any Cost!](https://imsadra.me/i-want-that-t-shirt-at-any-cost)
+ - 💯 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)
+ - 🚀 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)
+ - 🔥 [Connect Your Django Projects to PlanetScale Databases](https://imsadra.me/connect-your-django-projects-to-planetscale-databases)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
