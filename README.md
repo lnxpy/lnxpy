@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
   
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Hashnode Blogs on GitHub Profile](https://imsadra.me/hashnode-blogs-on-github-profile)
- - 🔥 [Python 3.11 - Five Cool Features!](https://imsadra.me/python-311-five-cool-features)
- - 💯 [I Want That T-Shirt at Any Cost!](https://imsadra.me/i-want-that-t-shirt-at-any-cost)
- - 🚀 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)
- - 🔥 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)<!-- BLOGPOSTS:END -->
+ - 🚀 [Persian/Arabic Blogs on Hashnode](https://imsadra.me/persianarabic-blogs-on-hashnode)
+ - 🔥 [Hashnode Blogs on GitHub Profile](https://imsadra.me/hashnode-blogs-on-github-profile)
+ - 💯 [Python 3.11 - Five Cool Features!](https://imsadra.me/python-311-five-cool-features)
+ - 🚀 [I Want That T-Shirt at Any Cost!](https://imsadra.me/i-want-that-t-shirt-at-any-cost)
+ - 🔥 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
