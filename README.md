@@ -1,6 +1,6 @@
 ### :wave: Hi there, I'm Sadra!
-Python backend developer and Machine Learning enthusiast. Innovation seeker. Technical writer. Leading [@collove](https://github.com/collove) community.
-  
+Python backend developer and Machine Learning enthusiast. Innovation seeker. Technical writer. Leading [@collove](https://github.com/collove) community. Becoming a GitHub Campus Expert!
+
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🚀 [Make Money From Open Source](https://imsadra.me/make-money-from-open-source)
