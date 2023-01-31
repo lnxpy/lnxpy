@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Make Money From Open Source](https://imsadra.me/make-money-from-open-source)
- - 🔥 [Dev Retro 22: From COVID to Success](https://imsadra.me/dev-retro-22-from-covid-to-success)
- - 💯 [Burnout: The Time You Hate Everything](https://imsadra.me/burnout-the-time-you-hate-everything)
- - 🚀 [Comments Make Your Code Unreadable!](https://imsadra.me/comments-make-your-code-unreadable)
- - 🔥 [Persian/Arabic Blogs on Hashnode](https://imsadra.me/persianarabic-blogs-on-hashnode)<!-- BLOGPOSTS:END -->
+ - 🚀 [Introduction to Interactive Rebase in Git](https://imsadra.me/introduction-to-interactive-rebase-in-git)
+ - 🔥 [Make Money From Open Source](https://imsadra.me/make-money-from-open-source)
+ - 💯 [Dev Retro 22: From COVID to Success](https://imsadra.me/dev-retro-22-from-covid-to-success)
+ - 🚀 [Burnout: The Time You Hate Everything](https://imsadra.me/burnout-the-time-you-hate-everything)
+ - 🔥 [Comments Make Your Code Unreadable!](https://imsadra.me/comments-make-your-code-unreadable)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
