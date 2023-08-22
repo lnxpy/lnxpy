@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [Writing GitHub Actions in Python](https://imsadra.me/writing-github-actions-in-python)
- - 🔥 [Tips for Winning Hackathons](https://imsadra.me/tips-for-winning-hackathons)
- - 💯 [Deep Dive Into the Zen of Python](https://imsadra.me/deep-dive-into-the-zen-of-python)
- - 🚀 [Introducing Hey! - Your AI-powered Pair Programming Friend](https://imsadra.me/introducing-hey-your-ai-powered-pair-programming-friend)
- - 🔥 [Ellipsis in Python: The Mysterious Three Dots](https://imsadra.me/ellipsis-in-python-the-mysterious-three-dots)<!-- BLOGPOSTS:END -->
+ - 🚀 [Python3.12 is Happening..!](https://imsadra.me/python312-is-happening)
+ - 🔥 [Writing GitHub Actions in Python](https://imsadra.me/writing-github-actions-in-python)
+ - 💯 [Tips for Winning Hackathons](https://imsadra.me/tips-for-winning-hackathons)
+ - 🚀 [Deep Dive Into the Zen of Python](https://imsadra.me/deep-dive-into-the-zen-of-python)
+ - 🔥 [Introducing Hey! - Your AI-powered Pair Programming Friend](https://imsadra.me/introducing-hey-your-ai-powered-pair-programming-friend)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
