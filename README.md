@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [A Guide to Creating MindsDB Integrations](https://imsadra.me/a-guide-to-creating-mindsdb-integrations)
- - 🔥 [Python3.12 is Happening..!](https://imsadra.me/python312-is-happening)
- - 💯 [Writing GitHub Actions in Python](https://imsadra.me/writing-github-actions-in-python)
- - 🚀 [Tips for Winning Hackathons](https://imsadra.me/tips-for-winning-hackathons)
- - 🔥 [Deep Dive Into the Zen of Python](https://imsadra.me/deep-dive-into-the-zen-of-python)<!-- BLOGPOSTS:END -->
+ - 🚀 [I Predicted the Future With MindsDB](https://imsadra.me/i-predicted-the-future-with-mindsdb)
+ - 🔥 [A Guide to Creating MindsDB Integrations](https://imsadra.me/a-guide-to-creating-mindsdb-integrations)
+ - 💯 [Python3.12 is Happening..!](https://imsadra.me/python312-is-happening)
+ - 🚀 [Writing GitHub Actions in Python](https://imsadra.me/writing-github-actions-in-python)
+ - 🔥 [Tips for Winning Hackathons](https://imsadra.me/tips-for-winning-hackathons)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
