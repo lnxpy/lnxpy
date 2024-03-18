@@ -3,11 +3,11 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🚀 [RevAI: Let AI Review it First!](https://imsadra.me/revai-let-ai-review-it-first)
- - 🔥 [I Predicted the Future With MindsDB](https://imsadra.me/i-predicted-the-future-with-mindsdb)
- - 💯 [A Guide to Creating MindsDB Integrations](https://imsadra.me/a-guide-to-creating-mindsdb-integrations)
- - 🚀 [Python3.12 is Happening..!](https://imsadra.me/python312-is-happening)
- - 🔥 [Writing GitHub Actions in Python](https://imsadra.me/writing-github-actions-in-python)<!-- BLOGPOSTS:END -->
+ - 🚀 [RevAI: Let AI Review it First!](https://blog.imsadra.me/revai-let-ai-review-it-first)
+ - 🔥 [I Predicted the Future With MindsDB](https://blog.imsadra.me/i-predicted-the-future-with-mindsdb)
+ - 💯 [A Guide to Creating MindsDB Integrations](https://blog.imsadra.me/a-guide-to-creating-mindsdb-integrations)
+ - 🚀 [Python3.12 is Happening..!](https://blog.imsadra.me/python312-is-happening)
+ - 🔥 [Writing GitHub Actions in Python](https://blog.imsadra.me/writing-github-actions-in-python)<!-- BLOGPOSTS:END -->
 
 Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
 
