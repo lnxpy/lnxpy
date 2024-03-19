@@ -9,7 +9,7 @@ Python backend developer and Machine Learning enthusiast. Innovation seeker. Tec
  - 🚀 [Python3.12 is Happening..!](https://blog.imsadra.me/python312-is-happening)
  - 🔥 [Writing GitHub Actions in Python](https://blog.imsadra.me/writing-github-actions-in-python)<!-- BLOGPOSTS:END -->
 
-Check out [__imsadra.me__](https://imsadra.me) for more interesting blog posts!
+Check out [__blog.imsadra.me__](https://blog.imsadra.me) for more interesting blog posts!
 
 #### :call_me_hand: Contact Me
 [__X__](https://x.com/lnxpylnxpy) | [__Email__](mailto:lnxpylnxpy@gmail.com) | [__Weblog__](https://imsadra.me) | [__LinkedIn__](https://www.linkedin.com/in/sadra-yahyapour/)
