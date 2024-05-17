@@ -1,5 +1,5 @@
 ### :wave: Hi there, I'm Sadra!
-Python backend developer and Machine Learning enthusiast. Innovation seeker. Technical writer. Leading [@collove](https://github.com/collove) community.
+Python developer and Machine Learning enthusiast. Innovation seeker. Technical writer.
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
