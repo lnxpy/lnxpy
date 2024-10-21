@@ -1,6 +1,8 @@
 ### :wave: Hi there, I'm Sadra!
 Python developer and Machine Learning enthusiast. Passionate about creating innovative tools and services, with a keen interest in collaborating on SaaS projects. Open to partnerships and co-working opportunities, as well as pursuing ventures as a solopreneur. Also writing technical articles! 😎
 
+![Artboard 1](https://github.com/user-attachments/assets/e26ea370-87f2-474c-a25a-6f861d44c1fb)
+
 #### :books: Recent blog posts
 <!-- BLOGPOSTS:START -->
  - 🚀 [Display Your Package Download Rate on GitHub](https://blog.imsadra.me/display-your-package-download-rate-on-github)
